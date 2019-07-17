@@ -5,3 +5,10 @@
  - *Lee Ann Womack* and [why she didn't shave her legs for Billboard](https://books.google.com/books?id=GwoEAAAAMBAJ&pg=PA63&lpg=PA63&dq=lee+ann+womack+shave+her+legs&source=bl&ots=u5Swpezsem&sig=ACfU3U2RZJJmBKtAx4lJDjKWDEwhopAIfw&hl=en&sa=X&ved=2ahUKEwjDlYGo0bzjAhVaV80KHc1ODhMQ6AEwDXoECAcQAQ#v=onepage&q=lee%20ann%20womack%20shave%20her%20legs&f=false) 
 
  This paragraph about nothing was made possible by the space between 5 and 7. Thank you, #6, for not getting involved.
+
+- I need to let you know that I may never git again.
+- I get it, but I don't git it.
+- Git it, got it, no good.
+- Are you committed? Commit.
+
+**The end.**
